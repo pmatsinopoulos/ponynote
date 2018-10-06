@@ -1,12 +1,13 @@
-*.pyc
+# See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-frontend/node_modules
+/node_modules
 
 # testing
-frontend/coverage
+/coverage
 
-# productibuild
+# production
+/build
 
 # misc
 .DS_Store
